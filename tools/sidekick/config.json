@@ -1,6 +1,6 @@
 {
-    "project": "SecurBank",
-    "host": "www.securbankdemo.com",
+    "project": "DIA",
+    "host": "main--dia--wfranksadobe.hlx.live",
     "plugins": [
         {
           "id": "library",
